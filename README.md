@@ -53,6 +53,7 @@
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e102.gif">
    <img width="150" height="20" src="https://github.com/user-attachments/assets/c2fe91e8-2db6-470f-9300-538c94b388b3">
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e69.gif">
+   <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e28.gif">
 
    
 
