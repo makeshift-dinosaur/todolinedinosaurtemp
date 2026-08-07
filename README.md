@@ -66,6 +66,39 @@
   <img width="180" height="45" src="https://64.media.tumblr.com/32b7b9bd1679204e05a333c7bf0e3ae0/tumblr_ot1sa4fqRR1vklr6jo1_250.pnj">
   <img width="180" height="45" src="https://64.media.tumblr.com/250f0c67417422d8aba2f12c45cf1427/21cba52d5a29a6a9-01/s1280x1920/002b1ab59c95a5388989ff2e06dcac1bccbaf983.pnj">
 
-   
+   <br><br>
+
+  <table border="0" align="right">
+    <tr align="center"></tr>
+      <th>
+                   <br>  
+      <p align="center"> $\normalsize\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
+      <p align="center"> $\normalsize\color{#7688BB}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
+      <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
+      <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$        
+
+    
+  </th>
+  </table>
+    
+
+<picture>
+  <source media="prefers-color-scheme: dark" srcset="dark-image.png">
+<img align="left" width="200" height="200" alt="Totodile Circle" src="https://github.com/user-attachments/assets/c3d9257f-94e3-46b0-a72d-9e7000890f25" />
+</picture>
 
 
+<img align="left" width="80" src="https://64.media.tumblr.com/c01248771976bebd082e558500e73ffa/61e1a5c800dfbec5-f5/s250x400/c3a9c3e0999a1eefb522b875e2e4ea8d5e64508f.gifv"> 
+<img align="left" width="80" src="https://64.media.tumblr.com/7dfb19299094e99db07c4a8342c70ff0/cffc278743cfa006-69/s100x200/a2e072310e2ecf7b21f56eec2aaae2947cf73f0c.gifv"> 
+
+<img align="left" width="80" src="https://64.media.tumblr.com/75c3366c1ebbda4aaee450cf0a728ae6/155530b7bbb9df4d-f8/s250x400/0c08c237b09199f7612974cc1d8108325b0d2882.pnj">
+<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
+<img align="left" width="80" src="https://64.media.tumblr.com/7101dcf0aed43beb8a04b4d9a0f2955b/acf30207513d4a6d-b9/s100x200/de9751348cec0e1c2269b2399d2d79ab568db7ed.pnj">
+<img align="left" width="80" src="https://64.media.tumblr.com/87de1bcba78a4dc8563afca37c15c1d5/f1c5824775c2c0c4-48/s250x400/48f8f21b939abfebe53b6bfb85cf47cea357a5a1.pnj">
+
+<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
+<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
+<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
+
+
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%2379afd2&height=150&speed=5.5&amplitude=35&frequency=1.4&waveType=sine&pulseWidth=0.3)
