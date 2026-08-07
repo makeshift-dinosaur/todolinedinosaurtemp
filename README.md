@@ -55,7 +55,8 @@
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e69.gif">
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e28.gif">
 
-   
+  <img width="180" height="70" src="https://64.media.tumblr.com/e850c7045f72332b562297c180189076/ac9b9b78c910d6c8-73/s640x960/bb1b4e897d79016c9a24d83c855c03d9d6ce9f3f.pnj">
+  <img width="180" height="70" src="https://64.media.tumblr.com/565bb3c3cb512b5f4a794ba7b91dbc30/3b3d9387778611c5-1e/s400x600/e61f95f72fd32a63927c40e9c7736932bf02d94d.pnj">
 
    
 
