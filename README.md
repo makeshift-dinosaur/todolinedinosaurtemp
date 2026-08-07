@@ -72,7 +72,9 @@
     <tr align="center"></tr>
       <th>
                    <br>  
-      <p align="center"> $\normalsize\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
+<a href="https://github.com/OstinUA">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Lorem%20ipsum%20dolor%20sit.&animation=fade&color=536CB5&background=00000000&size=17&font=code&duration=2000&pause=0&width=300&height=30&letterSpacing=normal&center=true&vCenter=false&multiline=false&repeat=true&random=false" alt="SVG Animation" />
+</a>
       <p align="center"> $\normalsize\color{#7688BB}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
       <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
       <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$        
@@ -88,17 +90,14 @@
 </picture>
 
 
-<img align="left" width="80" src="https://64.media.tumblr.com/c01248771976bebd082e558500e73ffa/61e1a5c800dfbec5-f5/s250x400/c3a9c3e0999a1eefb522b875e2e4ea8d5e64508f.gifv"> 
-<img align="left" width="80" src="https://64.media.tumblr.com/7dfb19299094e99db07c4a8342c70ff0/cffc278743cfa006-69/s100x200/a2e072310e2ecf7b21f56eec2aaae2947cf73f0c.gifv"> 
+<img align="left" width="115" src="https://64.media.tumblr.com/c01248771976bebd082e558500e73ffa/61e1a5c800dfbec5-f5/s250x400/c3a9c3e0999a1eefb522b875e2e4ea8d5e64508f.gifv"> 
+<img align="left" width="115" src="https://64.media.tumblr.com/7dfb19299094e99db07c4a8342c70ff0/cffc278743cfa006-69/s100x200/a2e072310e2ecf7b21f56eec2aaae2947cf73f0c.gifv"> 
 
-<img align="left" width="80" src="https://64.media.tumblr.com/75c3366c1ebbda4aaee450cf0a728ae6/155530b7bbb9df4d-f8/s250x400/0c08c237b09199f7612974cc1d8108325b0d2882.pnj">
-<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
-<img align="left" width="80" src="https://64.media.tumblr.com/7101dcf0aed43beb8a04b4d9a0f2955b/acf30207513d4a6d-b9/s100x200/de9751348cec0e1c2269b2399d2d79ab568db7ed.pnj">
-<img align="left" width="80" src="https://64.media.tumblr.com/87de1bcba78a4dc8563afca37c15c1d5/f1c5824775c2c0c4-48/s250x400/48f8f21b939abfebe53b6bfb85cf47cea357a5a1.pnj">
-
-<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
-<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
-<img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
+<img align="left" width="115" src="https://64.media.tumblr.com/75c3366c1ebbda4aaee450cf0a728ae6/155530b7bbb9df4d-f8/s250x400/0c08c237b09199f7612974cc1d8108325b0d2882.pnj">
+<img align="left" width="115" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
+<img align="left" width="115" src="https://64.media.tumblr.com/7101dcf0aed43beb8a04b4d9a0f2955b/acf30207513d4a6d-b9/s100x200/de9751348cec0e1c2269b2399d2d79ab568db7ed.pnj">
+<img align="left" width="115" src="https://64.media.tumblr.com/87de1bcba78a4dc8563afca37c15c1d5/f1c5824775c2c0c4-48/s250x400/48f8f21b939abfebe53b6bfb85cf47cea357a5a1.pnj">
 
 
 ![Wave Animation](https://waveify.onrender.com/api/wave/sine?color=%2379afd2&height=160&speed=5.5&width=1000&amplitude=35&frequency=1.4&waveType=sine&pulseWidth=0.3)
+
