@@ -32,7 +32,7 @@
 
   <br>
 
-<img src="https://komarev.com/ghpvc/?username=makeshift-dinosaur&color=0e466b&style=for-the-badge&label=CHOMPERS:" title="NOMNOMNOM">
+<img src="https://komarev.com/ghpvc/?username=makeshift-dinosaur&color=98A5C0&style=for-the-badge&label=CHOMPERS:" title="NOMNOMNOM">
 
 
   <br>  
