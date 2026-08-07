@@ -18,13 +18,17 @@
       <th>
            <br>  
       <p align="center"> $\normalsize\color{#C0C6CB}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7688BB}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#304FAF}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#304FAF}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#27408E}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\small\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\small\color{#7688BB}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\small\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+
+  <br>
+  <br>
+
+<img src="https://i.postimg.cc/vZMz3rnQ/IMG-8906.png">
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=losingmarbles&count=1&header_style=compact_stats_only&footer_style=none&border_radius=0&bg_color=0000)
+      
 
 
   </th>
@@ -56,9 +60,11 @@
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e28.gif">
    <img width="150" height="20" src="https://64.media.tumblr.com/719dc07561ea586b4e90c0d51dda1e88/b11478eba8d29036-5a/s250x400/16d77cfd186ee5bee14eb14742f0bd64ab5c2e60.gifv">
    <img width="150" height="20" src="https://64.media.tumblr.com/d3a13887fe91a0c1e6c52b9de54e275b/24fee13c7d54c8b7-e9/s250x400/b580e9769aa9731180708990720daaca5dce2405.gifv">
+   <img width="150" height="20" src="https://64.media.tumblr.com/1797b203b91ea66a2ad50acd28072e9a/af4833ffedc71c2a-bc/s250x400/a35204630d690f918d6dedd6b48f243b52994a05.gifv">
+   <img width="150" height="20" src="https://64.media.tumblr.com/c31d12ad23e900ce85d80de2c0649e33/c1845bd60be10dce-a3/s250x400/38f7ea185bd09abb0bd8e1cadb42375c95961d17.gifv">
 
-  <img width="180" height="40" src="https://64.media.tumblr.com/32b7b9bd1679204e05a333c7bf0e3ae0/tumblr_ot1sa4fqRR1vklr6jo1_250.pnj">
-  <img width="180" height="40" src="https://64.media.tumblr.com/250f0c67417422d8aba2f12c45cf1427/21cba52d5a29a6a9-01/s1280x1920/002b1ab59c95a5388989ff2e06dcac1bccbaf983.pnj">
+  <img width="180" height="45" src="https://64.media.tumblr.com/32b7b9bd1679204e05a333c7bf0e3ae0/tumblr_ot1sa4fqRR1vklr6jo1_250.pnj">
+  <img width="180" height="45" src="https://64.media.tumblr.com/250f0c67417422d8aba2f12c45cf1427/21cba52d5a29a6a9-01/s1280x1920/002b1ab59c95a5388989ff2e06dcac1bccbaf983.pnj">
 
    
 
