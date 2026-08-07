@@ -101,4 +101,4 @@
 <img align="left" width="80" src="https://64.media.tumblr.com/736edf7b3186448360da71777de0bf1d/155530b7bbb9df4d-95/s250x400/3c5694bf2b83e6e3d61e65495322288a8bd12734.pnj">
 
 
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%2379afd2&height=150&speed=5.5&amplitude=35&frequency=1.4&waveType=sine&pulseWidth=0.3)
+![Wave Animation](https://waveify.onrender.com/api/wave/sine?color=%2379afd2&height=160&speed=5.5&width=1000&amplitude=35&frequency=1.4&waveType=sine&pulseWidth=0.3)
