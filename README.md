@@ -73,7 +73,7 @@
       <th>
                    <br>  
 <a href="https://github.com/OstinUA">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Lorem%20ipsum%20dolor%20sit.&animation=wave&color=536CB5&background=00000000&size=17&font=code&duration=4000&pause=750&width=300&height=35&letterSpacing=normal&center=true&vCenter=false&multiline=false&repeat=true&random=false" alt="SVG Animation" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Prod%20by%20GetJinx3d%20GH.&animation=wave&color=536CB5&background=00000000&size=17&font=code&duration=4000&pause=750&width=300&height=35&letterSpacing=normal&center=true&vCenter=false&multiline=false&repeat=true&random=false" alt="SVG Animation" />
 </a>
       <p align="center"> $\normalsize\color{#7688BB}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
       <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur.}}$
