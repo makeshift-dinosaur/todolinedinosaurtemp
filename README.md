@@ -51,6 +51,9 @@
    <img width="150" height="20" src="https://64.media.tumblr.com/08917d10d5e2e4702a3aa43942dc4612/08f789a0433ceb18-72/s640x960/fbf740a7a3aea01b86a14232ea0e2b3bb59cfac0.gifv">
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e71.gif">
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e102.gif">
+   <img width="150" height="20" src="https://github.com/user-attachments/assets/c2fe91e8-2db6-470f-9300-538c94b388b3">
+   <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e69.gif">
+
    
 
    
