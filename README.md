@@ -17,14 +17,14 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
-    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+      <p align="center"> $\normalsize\color{#C0C6CB}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#98A5C0}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7688BB}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#536CB5}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#304FAF}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#304FAF}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#27408E}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
 
 
   </th>
