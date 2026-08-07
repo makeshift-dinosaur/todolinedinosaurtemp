@@ -86,7 +86,7 @@
 
 <picture>
   <source media="prefers-color-scheme: dark" srcset="dark-image.png">
-<img align="left" width="200" height="200" alt="Totodile Circle" src="https://github.com/user-attachments/assets/c3d9257f-94e3-46b0-a72d-9e7000890f25" />
+<img align="left" width="200" height="200" alt="Totodile Circle" src="https://github.com/user-attachments/assets/816e54a6-f474-425f-ad30-f9d8d76aae63" />
 </picture>
 
 
