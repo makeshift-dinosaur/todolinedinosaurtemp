@@ -10,3 +10,19 @@
 <img alt="Bubble Line Divider" src="https://github.com/user-attachments/assets/d7b9fa3e-ab89-4e0c-bade-5b615b760fcc" />
 </picture>
 
+  <table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+           <br>  
+      <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+    <p align="center"> $\normalsize\color{#7393aa}{\textsf{Lorem ipsum dolor sit amet consectetur adipiscing elit.}}$
+
+
+  </th>
+  </table>
