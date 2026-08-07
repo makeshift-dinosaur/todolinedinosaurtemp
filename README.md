@@ -54,9 +54,11 @@
    <img width="150" height="20" src="https://github.com/user-attachments/assets/c2fe91e8-2db6-470f-9300-538c94b388b3">
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e69.gif">
    <img width="150" height="20" src="https://adriansblinkiecollection.neocities.org/e28.gif">
+   <img width="150" height="20" src="https://64.media.tumblr.com/719dc07561ea586b4e90c0d51dda1e88/b11478eba8d29036-5a/s250x400/16d77cfd186ee5bee14eb14742f0bd64ab5c2e60.gifv">
+   <img width="150" height="20" src="https://64.media.tumblr.com/d3a13887fe91a0c1e6c52b9de54e275b/24fee13c7d54c8b7-e9/s250x400/b580e9769aa9731180708990720daaca5dce2405.gifv">
 
-  <img width="180" height="70" src="https://64.media.tumblr.com/e850c7045f72332b562297c180189076/ac9b9b78c910d6c8-73/s640x960/bb1b4e897d79016c9a24d83c855c03d9d6ce9f3f.pnj">
-  <img width="180" height="70" src="https://64.media.tumblr.com/565bb3c3cb512b5f4a794ba7b91dbc30/3b3d9387778611c5-1e/s400x600/e61f95f72fd32a63927c40e9c7736932bf02d94d.pnj">
+  <img width="180" height="40" src="https://64.media.tumblr.com/32b7b9bd1679204e05a333c7bf0e3ae0/tumblr_ot1sa4fqRR1vklr6jo1_250.pnj">
+  <img width="180" height="40" src="https://64.media.tumblr.com/250f0c67417422d8aba2f12c45cf1427/21cba52d5a29a6a9-01/s1280x1920/002b1ab59c95a5388989ff2e06dcac1bccbaf983.pnj">
 
    
 
