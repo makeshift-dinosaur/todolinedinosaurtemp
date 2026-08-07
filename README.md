@@ -10,6 +10,9 @@
 <img alt="Bubble Line Divider" src="https://github.com/user-attachments/assets/d7b9fa3e-ab89-4e0c-bade-5b615b760fcc" />
 </picture>
 
+<br>
+<br>  
+
   <table border="0" align="left">
     <tr align="center"></tr>
       <th>
@@ -30,6 +33,7 @@
   <br>
 
 <img src="https://komarev.com/ghpvc/?username=makeshift-dinosaur&color=0e466b&style=for-the-badge&label=CHOMPERS:" title="NOMNOMNOM">
+
 
   <br>  
       <br>
